@@ -13,3 +13,4 @@ def circle(radius):
     ans = 3.14*(radius*radius)
     print(ans)
 circle(8)
+#นายภูมิพัฒน์ ศรีไพพจน์ มใ6/14 เลขที่ 19
